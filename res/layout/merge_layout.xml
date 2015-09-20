@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <TextView
+        android:id="@+id/inter_text"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:background="#e2e2e2"
+        android:text="@string/merge_view_test"
+        android:textColor="#666666"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+    
+</merge>
