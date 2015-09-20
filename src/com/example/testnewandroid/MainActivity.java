@@ -88,7 +88,7 @@ public class MainActivity extends Activity {
 //        Cursor cursor = getContentResolver().query(ContactsContract.CommonDataKinds.Phone.CONTENT_URI, null, null, null, null) ;
 //        cursor.moveToFirst() ;
        
-        Log.e("wowo", "test new second commit") ;
+        Log.e("wowo", "test new second commit from master") ;
     }
 
     @Override
