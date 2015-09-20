@@ -89,6 +89,7 @@ public class MainActivity extends Activity {
 //        cursor.moveToFirst() ;
        
         Log.e("wowo", "test new second commit from master") ;
+
     }
 
     @Override
